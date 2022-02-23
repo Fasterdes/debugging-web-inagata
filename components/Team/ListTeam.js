@@ -23,8 +23,9 @@ const NameTeam = tw(HeadingTwo)`text-black mb-1 font-semibold text-2.5xl sm:text
 const PositionTeam = tw(HeadingFour)`text-lg sm:text-2xl text-gray-200 mb-7 capitalize`;
 const QuoteTeam = tw(TextBody)`text-black mb-7 text-left text-lg  md:text-2xl`;
 const SocialTeam = tw.div`flex w-full space-x-4`;
-const SocialLink = tw.a`font-semibold text-sm sm:text-base uppercase`;
+const SocialLink = tw.a`font-semibold text-sm sm:text-base uppercase hover:underline cursor-pointer`;
 const Title = tw(HeadingOne)`text-brown-gold col-span-full mb-6 mt-4 text-center z-10 `;
+
 const ListTeam = () => {
   return (
     <Section id="list-team">
@@ -58,6 +59,9 @@ const ListTeam = () => {
                   </Link>
                   <Link href="/" passHref>
                     <SocialLink>LinkedIn</SocialLink>
+                  </Link>
+                  <Link href={listTeams.cv} passHref={true}> 
+                    <SocialLink> CV Here </SocialLink>
                   </Link>
                 </SocialTeam>
               </ItemCaption>

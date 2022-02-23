@@ -6,7 +6,8 @@ const listTeam = [
     quote:
       'Always sailing through spaces and shifting frequencies, Miftah knows how to pilot the people inside INAGATA. Aside from being INAGATA’s Chief Exceutive Officer , he is also a maintaining his character to present everything so that it continues to grow.',
     instagram: '',
-    linkedin: '',
+    linkedin: '', 
+    cv: 'https://drive.google.com/file/d/1uUI5N2ZPJvfqDj6NcrfFUZJnFSsUfGnM/view?usp=sharing'
   },
   {
     name: 'Bagus Suryawan',
@@ -16,6 +17,7 @@ const listTeam = [
       'Everyone’s dad in INAGATA who is calm and collected. With big hugs and words of wisdom that calm and motivate, he also makes sure that everyone is treated equally.',
     instagram: '',
     linkedin: '',
+    cv: 'https://drive.google.com/file/d/1uUI5N2ZPJvfqDj6NcrfFUZJnFSsUfGnM/view?usp=sharing'
   },
   {
     name: 'Achmad An’im F.',
@@ -25,6 +27,7 @@ const listTeam = [
       'Quiet and dependable, he is a durable developer and always gives the best support to his fellow team. Despite not really making a sound, he is actually very observant, funny and a bit competitive when it comes to experimenting.',
     instagram: '',
     linkedin: '',
+    cv: 'https://drive.google.com/file/d/1uUI5N2ZPJvfqDj6NcrfFUZJnFSsUfGnM/view?usp=sharing'
   },
   {
     name: 'Agus Minatur R.',
@@ -34,6 +37,7 @@ const listTeam = [
       'Despite how serious he looks when planning and strategizing, he’s actually a enjoyable character who always makes discussion scenarios and puts people in them. Of course, we gladly follow through for a good insight.',
     instagram: '',
     linkedin: '',
+    cv: 'https://drive.google.com/file/d/1uUI5N2ZPJvfqDj6NcrfFUZJnFSsUfGnM/view?usp=sharing'
   },
   {
     name: 'Mohammad Fauzan',
@@ -43,6 +47,7 @@ const listTeam = [
       'This kimchi food-loving developer has a sophisticated taste that will hypnotize you. His wise disposition and confidence always bring smiles to everyone around.',
     instagram: '',
     linkedin: '',
+    cv: 'https://drive.google.com/file/d/1uUI5N2ZPJvfqDj6NcrfFUZJnFSsUfGnM/view?usp=sharing'
   },
   {
     name: 'Abd Halim Arumman',
@@ -52,6 +57,7 @@ const listTeam = [
       'The most flawless hair in INAGATA belongs to Halim’s head. We wonder how they stick flawlessly to his head while he squeezes his brain for aesthetic and attractive interface. He has his own think-tank in his head, but he’s always up for some fun!',
     instagram: '',
     linkedin: '',
+    cv: 'https://drive.google.com/file/d/1uUI5N2ZPJvfqDj6NcrfFUZJnFSsUfGnM/view?usp=sharing'
   },
   {
     name: 'Zarkasyi Mati’in',
@@ -61,6 +67,7 @@ const listTeam = [
       'He likes to munch anything that pleasures his palate and tummy. You can find him glued to his comfy chair, drown in his work, or watching youtube . A friendly face with unquestioned depth, he swims deep into his interests. If you need him, you can call him with food.',
     instagram: '',
     linkedin: '',
+    cv: 'https://drive.google.com/file/d/1uUI5N2ZPJvfqDj6NcrfFUZJnFSsUfGnM/view?usp=sharing'
   },
   {
     name: 'Shofi Noer Isroatin',
@@ -70,6 +77,7 @@ const listTeam = [
       'A strong person that is full of pink bubbles in her personality, this woman is equipped with a super focus that makes efficient money and account management possible. She multitasks and gets things done with a smile like it’s no big deal. Super.',
     instagram: '',
     linkedin: '',
+    cv: 'https://drive.google.com/file/d/1uUI5N2ZPJvfqDj6NcrfFUZJnFSsUfGnM/view?usp=sharing'
   },
   {
     name: 'Fithrotin Maulidiyah A.',
@@ -79,6 +87,7 @@ const listTeam = [
       'Talking to many over is her passion, because she can explore characters and become them. She is someone who can melt the ice in any conversation. But even when she likes to converse, she really appreciates a downtime where she can talk to his daughter.',
     instagram: '',
     linkedin: '',
+    cv: 'https://drive.google.com/file/d/1uUI5N2ZPJvfqDj6NcrfFUZJnFSsUfGnM/view?usp=sharing'
   },
 ];
 

@@ -64,6 +64,7 @@ const customStyles = css`
     height: 100vh;
   }
   section {
+    scroll-snap-stop: always;
     scroll-snap-align: start;
     flex: none;
   }
